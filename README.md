@@ -1,6 +1,8 @@
 ### Hi there 👋
-I'm Bedran from Turkey and I'm a Software Developer.</br>
-I currently learning ASP .NET and Entity Framework Core 6.
+
+<p><em>I'm Bedran from Turkey and I'm a Software Developer.</br>
+<p><em>I currently learning ASP .NET and Entity Framework Core 6.
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedranozcan)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,3 +13,4 @@ I currently learning ASP .NET and Entity Framework Core 6.
 </br>
 
 [gmail]: mailto:bedranozcann@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bedranozcan&label=Profile%20views&color=0e75b6&style=flat" /> </p>
