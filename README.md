@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 I'm Bedran from Turkey and I'm a Software Developer.</br>
 I currently learning ASP .NET and Entity Framework Core 6.
 
