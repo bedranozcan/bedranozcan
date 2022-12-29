@@ -1,6 +1,6 @@
 ### Hi there my name is Bedran 👋
 
-<p><em>I'm a from Turkey and I'm a Software Developer.</br>
+<p><em>I'm from Turkey and I'm a Software Developer.</br>
 <p><em>I currently learning ASP .NET and Entity Framework Core 6.</br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedranozcan)](https://github.com/anuraghazra/github-readme-stats)</br>
