@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there my name is Bedran 👋<br>I'm from Turkey and I'm a Software Developer.<br>I'm currently working on ASP .NET CORE and MVC<br>I'm currently learning ASP .NET and Entity Framework Core 6
+Hi there my name is Bedran 👋<br>I'm from Turkey and I'm a Software Developer.<br>I'm currently working on ASP .NET CORE and MVC<br>
 
 
 # 💻 Tech Stack:
