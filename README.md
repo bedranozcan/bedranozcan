@@ -7,7 +7,8 @@ Hi there my name is Bedran 👋<br>I'm from Turkey and I'm a Software Developer.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bedranozcan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bedranozcan&theme=dark&hide_border=false)<br/>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurcanaksu&label=Profile%20views&color=00008B&style=flat" alt="bedranozcan" width="105" height="20"  /> </p>
+<br />
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bedran-ozcan) 
