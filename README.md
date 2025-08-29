@@ -9,6 +9,9 @@ Hi there my name is Bedran 👋<br>I'm from Turkey and I'm a Software Developer.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bedranozcan&theme=dark&hide_border=false)<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bedranozcan&label=Profile%20views&color=00008B&style=flat" alt="bedranozcan" width="105" height="20"  /> </p>
----
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bedranozcan) 
+
+<p align="left">
+  <a href="https://linkedin.com/in/bedranozcan" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+</p>
