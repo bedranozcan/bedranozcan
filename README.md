@@ -11,7 +11,7 @@ Hi there my name is Bedran 👋<br>I'm from Turkey and I'm a Software Developer.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bedranozcan&label=Profile%20views&color=00008B&style=flat" alt="bedranozcan" width="105" height="20"  /> </p>
 ---
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bedran-ozcan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bedranozcan) 
 ----
 [![](https://visitcount.itsvg.in/api?id=bedranozcan&icon=0&color=0)](https://visitcount.itsvg.in)
 
